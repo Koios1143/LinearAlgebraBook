@@ -1,5 +1,8 @@
 # Matrix
 
+[![hackmd-github-sync-badge](https://hackmd.io/FuQgfmpPRmiFHeiSLsrAQA/badge)](https://hackmd.io/FuQgfmpPRmiFHeiSLsrAQA)
+
+
 ## Definition
 If the matrix has $m$ rows and $n$ columns, we say the size of the matrix is $m$ by $n$, written $m \times n$
 
